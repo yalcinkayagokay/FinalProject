@@ -1,0 +1,75 @@
+[
+
+{
+
+"name": "Menü-1",
+
+"description": "iPhone is the stylist phone ever",
+
+"price": 20,
+
+"image": "menu1.png"
+
+},
+
+{
+
+"name": "Menü-2",
+
+"description": "Pixel is the most feature phone ever",
+
+"price": 50,
+
+"image": "menu2.png"
+
+},
+
+{
+
+"name": "Menü-3",
+
+"description": "Laptop is most productive development tool",
+
+"price": 25,
+
+"image": "menu3.png"
+
+},
+
+{
+
+"name": "Menü-4",
+
+"description": "Tablet is the most useful device ever for meeting",
+
+"price": 45,
+
+"image": "menu4.png"
+
+},
+
+{
+
+"name": "Menü-5",
+
+"description": "Pendrive is useful storage medium",
+
+"price": 30,
+
+"image": "menu5.png"
+
+},
+
+{
+
+"name": "Menü-6",
+
+"description": "Floppy drive is useful rescue storage medium",
+
+"price": 40,
+
+"image": "menu6.png"
+
+}
+
+]
